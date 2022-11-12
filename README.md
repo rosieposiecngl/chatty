@@ -1,6 +1,7 @@
 # bwa_chatty
 
 A new Flutter project.
+Chatty Apps with dart
 
 ## Getting Started
 
